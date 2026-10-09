@@ -1,7 +1,5 @@
 AI-Powered Retail Sales Analytics and Prediction
 ================================================
-# AI-Powered Retail Sales Analytics and Prediction
-
 ## Project Overview
 
 This project uses Data Analytics and Artificial Intelligence to analyze retail sales data, discover business insights, and predict revenue using machine learning. It demonstrates an end-to-end data analytics workflow using Python.
