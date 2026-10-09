@@ -1,20 +1,56 @@
 AI-Powered Retail Sales Analytics and Prediction
 ================================================
+# AI-Powered Retail Sales Analytics and Prediction
 
-Files:
-1. Aditya_Retail_Sales_Analytics_AI.ipynb - complete notebook/code
-2. requirements.txt - Python dependencies
-3. Project_Report.docx - project report draft
-4. retail_sales_sample.csv - generated when the notebook is run
+## Project Overview
 
-How to run:
-1. Install Python 3.10+.
-2. Open a terminal in this folder.
-3. Run: pip install -r requirements.txt
-4. Run: jupyter notebook
-5. Open the .ipynb file and choose Run All.
+This project uses Data Analytics and Artificial Intelligence to analyze retail sales data, discover business insights, and predict revenue using machine learning. It demonstrates an end-to-end data analytics workflow using Python.
 
-Important:
-- The notebook creates simulated data and saves retail_sales_sample.csv in the current working directory.
-- Run every notebook cell before submission and update the report with actual charts/metrics.
-- Confirm the internship portal's exact required filenames and whether it accepts .ipynb or .py.
+## Objectives
+
+* Analyze retail sales and revenue trends.
+* Identify top-performing product categories.
+* Explore sales patterns across weekdays.
+* Examine the relationship between discounts, promotions, product prices, and sales.
+* Build a machine-learning model to estimate revenue.
+
+## Technologies Used
+
+* Python
+* Pandas and NumPy
+* Matplotlib
+* Scikit-learn
+* Jupyter Notebook
+
+## Project Workflow
+
+1. Generate a sample retail sales dataset.
+2. Check data quality and perform exploratory data analysis (EDA).
+3. Visualize revenue by product category and weekday.
+4. Train a Random Forest Regression model.
+5. Evaluate predictions using MAE, RMSE, and R².
+6. Generate insights to support retail business decisions.
+
+## Expected Outcome
+
+The project demonstrates how data analytics and machine learning can help retailers understand sales performance, identify trends, and estimate revenue.
+
+## Dataset
+
+The project uses a simulated dataset for educational purposes. The results demonstrate the analytical workflow and should not be treated as verified real-world business predictions.
+
+## How to Run
+
+1. Install the required libraries using `pip install -r requirements.txt`.
+2. Launch Jupyter Notebook.
+3. Open `Aditya_Retail_Sales_Analytics_AI.ipynb`.
+4. Run all notebook cells to generate the dataset, charts, and model evaluation results.
+
+## Conclusion
+
+This project showcases practical skills in Python programming, data analysis, visualization, and machine learning for retail sales analytics.
+
+
+
+
+
