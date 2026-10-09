@@ -1,0 +1,1201 @@
+date,category,units_sold,unit_price,discount_pct,promotion,weekday,revenue
+2025-01-01,Household,29,116.53,10,No,Wednesday,3041.43
+2025-01-01,Grocery,1,240.21,10,No,Wednesday,216.19
+2025-01-01,Snacks,13,59.0,0,No,Wednesday,767.0
+2025-01-01,Personal Care,17,177.1,5,Yes,Wednesday,2860.16
+2025-01-01,Snacks,5,60.19,10,No,Wednesday,270.86
+2025-01-01,Personal Care,13,454.89,0,Yes,Wednesday,5913.57
+2025-01-01,Personal Care,21,306.02,0,Yes,Wednesday,6426.42
+2025-01-01,Beverages,6,62.1,10,No,Wednesday,335.34
+2025-01-01,Personal Care,5,250.92,10,No,Wednesday,1129.14
+2025-01-01,Household,19,113.05,20,No,Wednesday,1718.36
+2025-01-01,Snacks,15,63.25,0,Yes,Wednesday,948.75
+2025-01-01,Personal Care,18,176.73,10,No,Wednesday,2863.03
+2025-01-01,Household,27,191.53,10,No,Wednesday,4654.18
+2025-01-02,Grocery,10,132.16,10,No,Thursday,1189.44
+2025-01-02,Household,30,271.61,15,No,Thursday,6926.06
+2025-01-02,Personal Care,13,155.44,20,Yes,Thursday,1616.58
+2025-01-02,Snacks,19,17.25,15,No,Thursday,278.59
+2025-01-02,Beverages,9,84.33,10,Yes,Thursday,683.07
+2025-01-03,Snacks,27,80.71,5,Yes,Friday,2070.21
+2025-01-03,Beverages,24,37.26,0,No,Friday,894.24
+2025-01-03,Household,19,180.4,5,Yes,Friday,3256.22
+2025-01-03,Beverages,29,21.58,5,No,Friday,594.53
+2025-01-03,Snacks,16,78.95,0,Yes,Friday,1263.2
+2025-01-03,Personal Care,23,356.35,10,No,Friday,7376.45
+2025-01-03,Grocery,10,122.13,10,No,Friday,1099.17
+2025-01-04,Grocery,8,175.67,15,Yes,Saturday,1194.56
+2025-01-04,Grocery,3,198.58,0,No,Saturday,595.74
+2025-01-04,Snacks,31,31.37,0,No,Saturday,972.47
+2025-01-04,Beverages,29,99.75,0,No,Saturday,2892.75
+2025-01-04,Snacks,16,80.23,15,Yes,Saturday,1091.13
+2025-01-04,Personal Care,30,434.3,0,Yes,Saturday,13029.0
+2025-01-05,Beverages,27,26.65,0,No,Sunday,719.55
+2025-01-05,Snacks,35,52.92,0,Yes,Sunday,1852.2
+2025-01-05,Grocery,31,188.61,15,Yes,Sunday,4969.87
+2025-01-05,Beverages,23,15.82,20,No,Sunday,291.09
+2025-01-05,Snacks,29,43.71,15,Yes,Sunday,1077.45
+2025-01-05,Personal Care,27,120.6,15,No,Sunday,2767.77
+2025-01-05,Snacks,8,78.56,0,No,Sunday,628.48
+2025-01-05,Beverages,25,103.13,0,Yes,Sunday,2578.25
+2025-01-05,Snacks,24,74.99,10,No,Sunday,1619.78
+2025-01-05,Household,11,164.22,0,No,Sunday,1806.42
+2025-01-06,Beverages,11,83.7,5,No,Monday,874.66
+2025-01-06,Personal Care,8,50.85,0,No,Monday,406.8
+2025-01-06,Personal Care,28,253.48,0,Yes,Monday,7097.44
+2025-01-06,Personal Care,22,328.23,10,Yes,Monday,6498.95
+2025-01-06,Beverages,11,76.52,10,No,Monday,757.55
+2025-01-06,Snacks,27,51.43,10,Yes,Monday,1249.75
+2025-01-07,Beverages,19,104.29,5,Yes,Tuesday,1882.43
+2025-01-07,Beverages,20,117.06,10,No,Tuesday,2107.08
+2025-01-07,Household,15,304.42,5,No,Tuesday,4337.98
+2025-01-08,Beverages,14,28.06,0,No,Wednesday,392.84
+2025-01-08,Snacks,21,98.12,10,No,Wednesday,1854.47
+2025-01-08,Household,7,123.92,0,Yes,Wednesday,867.44
+2025-01-08,Personal Care,19,159.73,15,No,Wednesday,2579.64
+2025-01-08,Personal Care,18,88.47,15,No,Wednesday,1353.59
+2025-01-08,Personal Care,9,132.6,0,Yes,Wednesday,1193.4
+2025-01-08,Beverages,2,98.25,0,No,Wednesday,196.5
+2025-01-08,Beverages,18,108.13,0,No,Wednesday,1946.34
+2025-01-08,Household,22,278.11,0,No,Wednesday,6118.42
+2025-01-09,Beverages,21,60.45,0,Yes,Thursday,1269.45
+2025-01-09,Beverages,29,94.92,0,No,Thursday,2752.68
+2025-01-09,Beverages,13,61.87,10,No,Thursday,723.88
+2025-01-09,Beverages,13,16.06,0,No,Thursday,208.78
+2025-01-09,Snacks,28,43.5,5,No,Thursday,1157.1
+2025-01-09,Household,22,261.3,10,Yes,Thursday,5173.74
+2025-01-10,Snacks,17,23.26,0,Yes,Friday,395.42
+2025-01-10,Personal Care,9,56.57,5,No,Friday,483.67
+2025-01-10,Beverages,15,48.28,10,No,Friday,651.78
+2025-01-10,Household,18,218.39,0,No,Friday,3931.02
+2025-01-11,Household,16,320.53,15,No,Saturday,4359.21
+2025-01-11,Household,33,160.43,15,No,Saturday,4500.06
+2025-01-11,Snacks,16,98.32,0,Yes,Saturday,1573.12
+2025-01-11,Snacks,29,26.35,0,Yes,Saturday,764.15
+2025-01-11,Beverages,32,49.88,0,No,Saturday,1596.16
+2025-01-12,Grocery,29,31.76,10,No,Sunday,828.94
+2025-01-12,Snacks,13,38.2,0,Yes,Sunday,496.6
+2025-01-12,Personal Care,28,140.77,15,No,Sunday,3350.33
+2025-01-12,Snacks,27,59.88,5,Yes,Sunday,1535.92
+2025-01-12,Snacks,9,17.97,10,No,Sunday,145.56
+2025-01-12,Personal Care,34,159.28,0,Yes,Sunday,5415.52
+2025-01-12,Beverages,14,66.33,0,No,Sunday,928.62
+2025-01-12,Household,20,340.89,10,No,Sunday,6136.02
+2025-01-13,Snacks,8,41.31,0,Yes,Monday,330.48
+2025-01-13,Personal Care,7,283.64,0,No,Monday,1985.48
+2025-01-13,Beverages,30,99.52,0,No,Monday,2985.6
+2025-01-13,Snacks,25,35.2,10,No,Monday,792.0
+2025-01-13,Household,5,49.05,0,Yes,Monday,245.25
+2025-01-13,Grocery,7,86.1,15,Yes,Monday,512.29
+2025-01-14,Household,25,168.47,10,No,Tuesday,3790.58
+2025-01-14,Beverages,26,50.96,0,No,Tuesday,1324.96
+2025-01-14,Personal Care,27,393.08,10,No,Tuesday,9551.84
+2025-01-14,Beverages,23,115.81,0,No,Tuesday,2663.63
+2025-01-14,Grocery,24,71.66,20,No,Tuesday,1375.87
+2025-01-14,Household,15,329.96,10,No,Tuesday,4454.46
+2025-01-14,Personal Care,4,142.15,5,No,Tuesday,540.17
+2025-01-15,Personal Care,33,359.98,5,Yes,Wednesday,11285.37
+2025-01-15,Personal Care,29,392.39,0,No,Wednesday,11379.31
+2025-01-15,Grocery,26,50.3,0,Yes,Wednesday,1307.8
+2025-01-15,Grocery,8,88.44,20,No,Wednesday,566.02
+2025-01-15,Household,9,124.5,0,No,Wednesday,1120.5
+2025-01-15,Beverages,28,52.5,0,No,Wednesday,1470.0
+2025-01-15,Snacks,16,79.72,0,No,Wednesday,1275.52
+2025-01-15,Snacks,14,90.47,20,No,Wednesday,1013.26
+2025-01-15,Snacks,16,17.63,5,No,Wednesday,267.98
+2025-01-16,Personal Care,1,275.69,20,No,Thursday,220.55
+2025-01-16,Personal Care,13,497.17,10,No,Thursday,5816.89
+2025-01-16,Snacks,10,26.68,0,No,Thursday,266.8
+2025-01-17,Grocery,14,246.21,20,No,Friday,2757.55
+2025-01-17,Grocery,27,83.04,10,Yes,Friday,2017.87
+2025-01-17,Beverages,9,62.9,0,No,Friday,566.1
+2025-01-17,Beverages,13,27.91,0,No,Friday,362.83
+2025-01-17,Beverages,22,48.14,10,No,Friday,953.17
+2025-01-17,Household,31,180.77,0,Yes,Friday,5603.87
+2025-01-17,Household,29,204.9,15,No,Friday,5050.78
+2025-01-18,Beverages,19,37.65,20,Yes,Saturday,572.28
+2025-01-18,Personal Care,8,445.69,20,Yes,Saturday,2852.42
+2025-01-18,Snacks,23,69.08,15,Yes,Saturday,1350.51
+2025-01-19,Grocery,15,101.6,15,No,Sunday,1295.4
+2025-01-19,Snacks,21,37.43,15,No,Sunday,668.13
+2025-01-19,Snacks,34,30.28,10,Yes,Sunday,926.57
+2025-01-19,Snacks,3,42.81,10,No,Sunday,115.59
+2025-01-19,Snacks,30,22.65,5,Yes,Sunday,645.52
+2025-01-20,Personal Care,26,427.07,0,Yes,Monday,11103.82
+2025-01-20,Household,15,92.67,10,No,Monday,1251.04
+2025-01-20,Beverages,16,46.74,10,No,Monday,673.06
+2025-01-21,Beverages,6,28.18,15,No,Tuesday,143.72
+2025-01-21,Grocery,3,242.61,0,No,Tuesday,727.83
+2025-01-21,Personal Care,5,68.84,10,No,Tuesday,309.78
+2025-01-21,Grocery,16,203.52,0,Yes,Tuesday,3256.32
+2025-01-21,Grocery,3,110.75,10,No,Tuesday,299.03
+2025-01-21,Grocery,10,36.39,0,No,Tuesday,363.9
+2025-01-21,Personal Care,10,307.91,5,Yes,Tuesday,2925.14
+2025-01-21,Snacks,9,98.65,0,No,Tuesday,887.85
+2025-01-22,Snacks,20,31.56,0,Yes,Wednesday,631.2
+2025-01-22,Snacks,25,38.46,10,No,Wednesday,865.35
+2025-01-22,Snacks,9,79.81,0,No,Wednesday,718.29
+2025-01-22,Snacks,23,66.22,5,No,Wednesday,1446.91
+2025-01-23,Household,23,261.27,0,No,Thursday,6009.21
+2025-01-23,Household,28,39.33,0,Yes,Thursday,1101.24
+2025-01-23,Grocery,29,158.87,0,No,Thursday,4607.23
+2025-01-23,Household,22,167.74,0,No,Thursday,3690.28
+2025-01-23,Personal Care,30,288.72,10,Yes,Thursday,7795.44
+2025-01-23,Personal Care,18,442.91,0,No,Thursday,7972.38
+2025-01-24,Personal Care,21,426.72,0,Yes,Friday,8961.12
+2025-01-24,Beverages,1,108.48,0,No,Friday,108.48
+2025-01-24,Beverages,18,40.93,10,No,Friday,663.07
+2025-01-24,Household,25,63.35,5,Yes,Friday,1504.56
+2025-01-24,Personal Care,4,78.39,15,Yes,Friday,266.53
+2025-01-25,Household,20,72.83,0,No,Saturday,1456.6
+2025-01-25,Household,1,147.69,10,No,Saturday,132.92
+2025-01-25,Personal Care,19,45.39,10,No,Saturday,776.17
+2025-01-25,Snacks,37,84.48,15,Yes,Saturday,2656.9
+2025-01-25,Personal Care,29,236.65,5,Yes,Saturday,6519.71
+2025-01-25,Household,2,93.75,15,No,Saturday,159.38
+2025-01-25,Beverages,14,104.94,15,Yes,Saturday,1248.79
+2025-01-26,Personal Care,24,267.15,5,No,Sunday,6091.02
+2025-01-26,Grocery,26,238.68,10,Yes,Sunday,5585.11
+2025-01-26,Household,12,196.09,0,Yes,Sunday,2353.08
+2025-01-26,Snacks,33,78.81,15,No,Sunday,2210.62
+2025-01-26,Household,19,257.84,0,No,Sunday,4898.96
+2025-01-26,Snacks,23,15.21,10,No,Sunday,314.85
+2025-01-26,Snacks,14,94.67,10,No,Sunday,1192.84
+2025-01-27,Beverages,12,57.99,5,No,Monday,661.09
+2025-01-27,Grocery,32,45.13,5,Yes,Monday,1371.95
+2025-01-27,Beverages,26,81.63,0,No,Monday,2122.38
+2025-01-27,Grocery,1,167.79,20,No,Monday,134.23
+2025-01-27,Grocery,34,152.85,5,Yes,Monday,4937.05
+2025-01-27,Personal Care,23,364.57,0,Yes,Monday,8385.11
+2025-01-27,Beverages,23,56.11,0,No,Monday,1290.53
+2025-01-28,Snacks,14,51.19,5,No,Tuesday,680.83
+2025-01-28,Beverages,34,90.83,10,Yes,Tuesday,2779.4
+2025-01-28,Snacks,25,68.65,10,No,Tuesday,1544.63
+2025-01-28,Grocery,14,63.25,0,Yes,Tuesday,885.5
+2025-01-28,Personal Care,16,242.49,10,No,Tuesday,3491.86
+2025-01-28,Grocery,1,138.97,10,No,Tuesday,125.07
+2025-01-28,Personal Care,6,285.19,0,No,Tuesday,1711.14
+2025-01-28,Household,8,54.66,10,Yes,Tuesday,393.55
+2025-01-28,Beverages,15,81.79,0,No,Tuesday,1226.85
+2025-01-29,Snacks,28,67.64,10,Yes,Wednesday,1704.53
+2025-01-29,Beverages,1,21.68,20,No,Wednesday,17.34
+2025-01-29,Grocery,9,134.14,20,No,Wednesday,965.81
+2025-01-29,Beverages,10,15.58,0,Yes,Wednesday,155.8
+2025-01-29,Snacks,14,25.02,10,No,Wednesday,315.25
+2025-01-29,Household,8,134.09,0,No,Wednesday,1072.72
+2025-01-29,Personal Care,22,317.6,5,Yes,Wednesday,6637.84
+2025-01-30,Grocery,4,40.38,0,No,Thursday,161.52
+2025-01-30,Snacks,6,16.56,0,No,Thursday,99.36
+2025-01-30,Grocery,27,113.17,0,No,Thursday,3055.59
+2025-01-30,Personal Care,18,171.46,20,Yes,Thursday,2469.02
+2025-01-30,Grocery,27,111.07,10,No,Thursday,2699.0
+2025-01-30,Grocery,16,108.28,10,No,Thursday,1559.23
+2025-01-30,Household,15,342.74,5,Yes,Thursday,4884.04
+2025-01-31,Household,27,267.41,0,Yes,Friday,7220.07
+2025-01-31,Grocery,8,88.95,15,Yes,Friday,604.86
+2025-02-01,Beverages,22,45.94,10,No,Saturday,909.61
+2025-02-01,Snacks,19,87.02,5,No,Saturday,1570.71
+2025-02-01,Personal Care,21,187.97,15,No,Saturday,3355.26
+2025-02-01,Beverages,13,91.81,15,Yes,Saturday,1014.5
+2025-02-02,Snacks,15,31.49,0,No,Sunday,472.35
+2025-02-02,Snacks,16,56.01,0,No,Sunday,896.16
+2025-02-02,Snacks,12,78.49,15,Yes,Sunday,800.6
+2025-02-02,Snacks,29,61.46,10,Yes,Sunday,1604.11
+2025-02-02,Beverages,22,69.74,10,Yes,Sunday,1380.85
+2025-02-02,Grocery,8,66.93,20,No,Sunday,428.35
+2025-02-02,Household,30,63.75,0,No,Sunday,1912.5
+2025-02-02,Grocery,24,136.37,10,No,Sunday,2945.59
+2025-02-02,Personal Care,18,206.45,0,No,Sunday,3716.1
+2025-02-02,Beverages,19,74.23,15,No,Sunday,1198.81
+2025-02-03,Household,6,34.58,0,No,Monday,207.48
+2025-02-03,Personal Care,27,316.88,15,Yes,Monday,7272.4
+2025-02-03,Household,32,168.82,15,Yes,Monday,4591.9
+2025-02-03,Beverages,17,50.42,0,No,Monday,857.14
+2025-02-03,Beverages,30,46.49,5,No,Monday,1324.96
+2025-02-03,Personal Care,25,246.7,10,Yes,Monday,5550.75
+2025-02-04,Snacks,10,43.24,0,No,Tuesday,432.4
+2025-02-04,Household,2,332.09,15,No,Tuesday,564.55
+2025-02-04,Snacks,9,35.73,10,No,Tuesday,289.41
+2025-02-04,Snacks,2,37.5,0,No,Tuesday,75.0
+2025-02-04,Household,11,319.97,0,No,Tuesday,3519.67
+2025-02-04,Household,5,212.25,15,No,Tuesday,902.06
+2025-02-04,Household,5,286.83,5,No,Tuesday,1362.44
+2025-02-04,Grocery,16,194.18,15,Yes,Tuesday,2640.85
+2025-02-05,Household,21,254.81,0,No,Wednesday,5351.01
+2025-02-05,Personal Care,26,488.13,0,Yes,Wednesday,12691.38
+2025-02-05,Personal Care,2,351.18,0,No,Wednesday,702.36
+2025-02-05,Personal Care,16,71.74,0,No,Wednesday,1147.84
+2025-02-05,Grocery,15,209.47,20,No,Wednesday,2513.64
+2025-02-05,Beverages,27,47.68,5,No,Wednesday,1222.99
+2025-02-05,Personal Care,30,325.63,10,Yes,Wednesday,8792.01
+2025-02-06,Personal Care,11,92.79,15,No,Thursday,867.59
+2025-02-06,Household,22,245.72,5,Yes,Thursday,5135.55
+2025-02-06,Beverages,2,115.6,10,No,Thursday,208.08
+2025-02-06,Personal Care,13,323.04,0,No,Thursday,4199.52
+2025-02-06,Personal Care,14,332.74,20,Yes,Thursday,3726.69
+2025-02-06,Household,13,30.47,5,Yes,Thursday,376.3
+2025-02-07,Beverages,27,63.48,0,No,Friday,1713.96
+2025-02-07,Snacks,30,28.34,5,Yes,Friday,807.69
+2025-02-07,Snacks,2,50.1,10,No,Friday,90.18
+2025-02-07,Snacks,24,27.24,20,No,Friday,523.01
+2025-02-07,Snacks,3,68.92,10,No,Friday,186.08
+2025-02-07,Beverages,22,60.84,5,Yes,Friday,1271.56
+2025-02-07,Grocery,8,109.28,0,Yes,Friday,874.24
+2025-02-07,Grocery,13,135.14,20,Yes,Friday,1405.46
+2025-02-07,Grocery,5,175.9,0,No,Friday,879.5
+2025-02-07,Beverages,24,17.2,10,No,Friday,371.52
+2025-02-07,Snacks,22,33.55,10,No,Friday,664.29
+2025-02-08,Beverages,15,20.49,5,No,Saturday,291.98
+2025-02-08,Beverages,16,30.0,15,No,Saturday,408.0
+2025-02-08,Beverages,4,65.99,5,Yes,Saturday,250.76
+2025-02-08,Household,30,103.18,10,Yes,Saturday,2785.86
+2025-02-08,Grocery,31,210.74,10,Yes,Saturday,5879.65
+2025-02-08,Grocery,13,195.03,5,No,Saturday,2408.62
+2025-02-08,Household,17,137.27,5,No,Saturday,2216.91
+2025-02-08,Grocery,11,189.88,5,No,Saturday,1984.25
+2025-02-08,Grocery,12,118.82,0,Yes,Saturday,1425.84
+2025-02-08,Household,28,208.77,10,No,Saturday,5261.0
+2025-02-09,Beverages,21,91.23,0,No,Sunday,1915.83
+2025-02-09,Household,7,144.25,0,Yes,Sunday,1009.75
+2025-02-09,Snacks,25,68.18,0,No,Sunday,1704.5
+2025-02-09,Grocery,6,120.51,0,No,Sunday,723.06
+2025-02-09,Snacks,29,74.14,10,Yes,Sunday,1935.05
+2025-02-10,Snacks,16,83.51,0,Yes,Monday,1336.16
+2025-02-10,Beverages,20,76.99,0,Yes,Monday,1539.8
+2025-02-10,Beverages,10,106.35,10,No,Monday,957.15
+2025-02-10,Snacks,20,65.44,0,No,Monday,1308.8
+2025-02-11,Personal Care,4,375.42,0,No,Tuesday,1501.68
+2025-02-11,Grocery,4,134.75,15,No,Tuesday,458.15
+2025-02-11,Grocery,23,150.03,10,No,Tuesday,3105.62
+2025-02-11,Personal Care,15,325.01,0,No,Tuesday,4875.15
+2025-02-11,Personal Care,16,305.48,5,No,Tuesday,4643.3
+2025-02-11,Beverages,18,70.75,10,No,Tuesday,1146.15
+2025-02-12,Snacks,29,28.63,10,No,Wednesday,747.24
+2025-02-12,Personal Care,11,273.18,20,Yes,Wednesday,2403.98
+2025-02-12,Beverages,6,66.89,5,Yes,Wednesday,381.27
+2025-02-12,Grocery,19,177.0,0,No,Wednesday,3363.0
+2025-02-13,Household,27,204.41,0,Yes,Thursday,5519.07
+2025-02-13,Personal Care,12,482.12,10,No,Thursday,5206.9
+2025-02-13,Personal Care,36,277.62,0,Yes,Thursday,9994.32
+2025-02-13,Personal Care,14,401.19,15,No,Thursday,4774.16
+2025-02-13,Household,19,258.23,0,No,Thursday,4906.37
+2025-02-13,Personal Care,15,190.97,10,Yes,Thursday,2578.1
+2025-02-14,Personal Care,26,72.99,10,No,Friday,1707.97
+2025-02-14,Personal Care,33,401.05,20,Yes,Friday,10587.72
+2025-02-14,Grocery,25,149.96,0,No,Friday,3749.0
+2025-02-14,Snacks,20,96.77,0,No,Friday,1935.4
+2025-02-15,Grocery,13,225.13,20,No,Saturday,2341.35
+2025-02-15,Snacks,35,82.6,15,Yes,Saturday,2457.35
+2025-02-15,Household,12,64.57,10,No,Saturday,697.36
+2025-02-15,Beverages,6,34.34,0,No,Saturday,206.04
+2025-02-15,Snacks,7,48.27,0,No,Saturday,337.89
+2025-02-15,Snacks,9,82.32,0,No,Saturday,740.88
+2025-02-15,Snacks,29,88.94,0,No,Saturday,2579.26
+2025-02-16,Personal Care,21,489.33,10,Yes,Sunday,9248.34
+2025-02-16,Beverages,13,51.63,0,No,Sunday,671.19
+2025-02-16,Grocery,21,143.99,20,Yes,Sunday,2419.03
+2025-02-16,Snacks,14,63.91,5,No,Sunday,850.0
+2025-02-16,Household,30,280.02,10,Yes,Sunday,7560.54
+2025-02-16,Household,22,182.43,0,No,Sunday,4013.46
+2025-02-16,Personal Care,11,110.91,15,No,Sunday,1037.01
+2025-02-16,Household,20,272.81,10,No,Sunday,4910.58
+2025-02-16,Beverages,6,35.44,5,No,Sunday,202.01
+2025-02-16,Grocery,30,131.18,10,Yes,Sunday,3541.86
+2025-02-16,Personal Care,15,205.62,10,No,Sunday,2775.87
+2025-02-16,Beverages,25,55.7,5,No,Sunday,1322.88
+2025-02-17,Snacks,2,60.51,10,No,Monday,108.92
+2025-02-17,Snacks,26,58.92,15,No,Monday,1302.13
+2025-02-17,Household,36,302.72,10,Yes,Monday,9808.13
+2025-02-17,Grocery,4,202.45,15,No,Monday,688.33
+2025-02-17,Personal Care,10,346.54,10,Yes,Monday,3118.86
+2025-02-17,Household,13,82.74,20,No,Monday,860.5
+2025-02-17,Personal Care,29,395.13,10,No,Monday,10312.89
+2025-02-17,Personal Care,27,56.24,15,No,Monday,1290.71
+2025-02-18,Grocery,8,242.42,10,Yes,Tuesday,1745.42
+2025-02-18,Personal Care,16,179.82,10,No,Tuesday,2589.41
+2025-02-18,Household,21,48.45,0,No,Tuesday,1017.45
+2025-02-18,Beverages,5,44.07,15,No,Tuesday,187.3
+2025-02-18,Grocery,19,67.31,0,No,Tuesday,1278.89
+2025-02-18,Grocery,26,245.67,10,No,Tuesday,5748.68
+2025-02-18,Grocery,18,25.79,5,Yes,Tuesday,441.01
+2025-02-19,Snacks,16,65.22,0,No,Wednesday,1043.52
+2025-02-19,Beverages,5,103.88,10,No,Wednesday,467.46
+2025-02-19,Grocery,8,202.74,0,Yes,Wednesday,1621.92
+2025-02-19,Snacks,10,19.06,15,Yes,Wednesday,162.01
+2025-02-20,Personal Care,21,172.08,15,No,Thursday,3071.63
+2025-02-20,Beverages,21,117.9,5,No,Thursday,2352.1
+2025-02-20,Snacks,5,85.33,10,No,Thursday,383.98
+2025-02-20,Beverages,28,15.93,5,No,Thursday,423.74
+2025-02-20,Beverages,19,76.72,0,No,Thursday,1457.68
+2025-02-20,Beverages,3,44.0,15,No,Thursday,112.2
+2025-02-20,Snacks,28,57.73,10,No,Thursday,1454.8
+2025-02-20,Personal Care,9,179.35,15,Yes,Thursday,1372.03
+2025-02-20,Grocery,10,93.94,0,No,Thursday,939.4
+2025-02-21,Beverages,3,92.69,10,Yes,Friday,250.26
+2025-02-21,Personal Care,14,472.71,15,Yes,Friday,5625.25
+2025-02-21,Beverages,17,84.7,5,No,Friday,1367.9
+2025-02-21,Beverages,12,44.51,5,No,Friday,507.41
+2025-02-21,Snacks,22,53.29,10,No,Friday,1055.14
+2025-02-21,Beverages,15,79.32,10,Yes,Friday,1070.82
+2025-02-22,Beverages,13,87.72,5,Yes,Saturday,1083.34
+2025-02-22,Beverages,24,68.11,0,No,Saturday,1634.64
+2025-02-22,Beverages,31,80.6,5,No,Saturday,2373.67
+2025-02-22,Beverages,13,29.21,10,Yes,Saturday,341.76
+2025-02-22,Grocery,23,131.78,0,No,Saturday,3030.94
+2025-02-22,Personal Care,14,223.0,0,No,Saturday,3122.0
+2025-02-22,Snacks,28,64.14,5,No,Saturday,1706.12
+2025-02-22,Personal Care,5,85.26,0,No,Saturday,426.3
+2025-02-22,Snacks,6,49.55,0,No,Saturday,297.3
+2025-02-22,Snacks,13,91.65,10,No,Saturday,1072.3
+2025-02-23,Beverages,23,83.9,0,Yes,Sunday,1929.7
+2025-02-23,Household,26,215.75,20,No,Sunday,4487.6
+2025-02-23,Grocery,35,139.46,10,Yes,Sunday,4392.99
+2025-02-23,Beverages,25,66.2,10,No,Sunday,1489.5
+2025-02-23,Beverages,9,97.79,20,No,Sunday,704.09
+2025-02-23,Household,21,83.05,15,No,Sunday,1482.44
+2025-02-23,Snacks,7,85.78,15,No,Sunday,510.39
+2025-02-23,Snacks,11,54.68,5,No,Sunday,571.41
+2025-02-23,Household,5,81.91,10,No,Sunday,368.6
+2025-02-24,Personal Care,17,485.5,10,No,Monday,7428.15
+2025-02-24,Beverages,16,51.55,20,No,Monday,659.84
+2025-02-24,Grocery,23,117.19,0,No,Monday,2695.37
+2025-02-24,Snacks,7,55.94,0,No,Monday,391.58
+2025-02-24,Beverages,2,32.57,10,Yes,Monday,58.63
+2025-02-25,Personal Care,16,363.77,10,Yes,Tuesday,5238.29
+2025-02-25,Beverages,23,58.73,0,No,Tuesday,1350.79
+2025-02-25,Grocery,30,106.33,10,No,Tuesday,2870.91
+2025-02-25,Snacks,13,55.04,10,Yes,Tuesday,643.97
+2025-02-25,Beverages,26,47.97,10,No,Tuesday,1122.5
+2025-02-26,Snacks,3,17.06,0,No,Wednesday,51.18
+2025-02-26,Beverages,27,83.37,5,No,Wednesday,2138.44
+2025-02-26,Personal Care,24,389.14,20,No,Wednesday,7471.49
+2025-02-26,Beverages,15,27.92,0,No,Wednesday,418.8
+2025-02-26,Beverages,13,57.79,20,No,Wednesday,601.02
+2025-02-27,Snacks,14,11.13,0,No,Thursday,155.82
+2025-02-27,Personal Care,13,180.44,0,Yes,Thursday,2345.72
+2025-02-27,Grocery,6,89.29,10,Yes,Thursday,482.17
+2025-02-27,Household,16,120.09,15,Yes,Thursday,1633.22
+2025-02-27,Household,26,98.05,10,No,Thursday,2294.37
+2025-02-27,Beverages,16,95.77,10,No,Thursday,1379.09
+2025-02-27,Beverages,20,45.28,0,Yes,Thursday,905.6
+2025-02-27,Household,32,309.75,20,Yes,Thursday,7929.6
+2025-02-27,Household,25,42.48,10,No,Thursday,955.8
+2025-02-28,Personal Care,12,183.46,5,No,Friday,2091.44
+2025-02-28,Personal Care,18,95.84,0,No,Friday,1725.12
+2025-02-28,Household,27,137.04,10,No,Friday,3330.07
+2025-02-28,Beverages,21,36.05,10,No,Friday,681.34
+2025-03-01,Household,15,47.48,10,Yes,Saturday,640.98
+2025-03-01,Beverages,8,85.43,10,No,Saturday,615.1
+2025-03-01,Beverages,6,112.45,10,Yes,Saturday,607.23
+2025-03-01,Household,25,229.15,10,Yes,Saturday,5155.88
+2025-03-01,Snacks,12,50.53,0,No,Saturday,606.36
+2025-03-01,Snacks,17,56.93,10,Yes,Saturday,871.03
+2025-03-01,Snacks,4,96.76,5,No,Saturday,367.69
+2025-03-01,Beverages,15,30.88,15,No,Saturday,393.72
+2025-03-02,Household,16,154.16,10,Yes,Sunday,2219.9
+2025-03-02,Personal Care,24,380.82,5,No,Sunday,8682.7
+2025-03-02,Snacks,29,96.94,10,No,Sunday,2530.13
+2025-03-02,Household,32,203.25,10,Yes,Sunday,5853.6
+2025-03-02,Snacks,11,72.63,0,No,Sunday,798.93
+2025-03-02,Personal Care,28,275.12,15,No,Sunday,6547.86
+2025-03-03,Personal Care,7,114.84,10,No,Monday,723.49
+2025-03-03,Household,16,255.18,20,No,Monday,3266.3
+2025-03-03,Grocery,27,216.37,0,No,Monday,5841.99
+2025-03-03,Snacks,13,11.58,10,No,Monday,135.49
+2025-03-03,Beverages,30,65.83,5,No,Monday,1876.15
+2025-03-03,Household,12,68.73,10,No,Monday,742.28
+2025-03-03,Household,8,286.0,0,No,Monday,2288.0
+2025-03-03,Personal Care,10,133.14,0,No,Monday,1331.4
+2025-03-03,Household,25,125.59,5,No,Monday,2982.76
+2025-03-03,Household,13,256.46,0,Yes,Monday,3333.98
+2025-03-03,Personal Care,27,216.56,10,No,Monday,5262.41
+2025-03-04,Grocery,1,130.6,20,No,Tuesday,104.48
+2025-03-04,Snacks,28,74.17,5,No,Tuesday,1972.92
+2025-03-04,Personal Care,27,82.78,0,No,Tuesday,2235.06
+2025-03-04,Personal Care,24,166.36,0,Yes,Tuesday,3992.64
+2025-03-04,Snacks,6,32.2,0,No,Tuesday,193.2
+2025-03-04,Beverages,22,89.48,0,No,Tuesday,1968.56
+2025-03-04,Household,3,328.54,0,No,Tuesday,985.62
+2025-03-04,Snacks,14,67.86,10,No,Tuesday,855.04
+2025-03-04,Grocery,18,107.52,15,No,Tuesday,1645.06
+2025-03-04,Snacks,16,75.4,0,Yes,Tuesday,1206.4
+2025-03-04,Household,13,213.53,10,No,Tuesday,2498.3
+2025-03-04,Beverages,24,100.8,15,No,Tuesday,2056.32
+2025-03-05,Beverages,8,118.02,10,No,Wednesday,849.74
+2025-03-05,Grocery,12,203.7,0,No,Wednesday,2444.4
+2025-03-05,Beverages,15,86.14,0,Yes,Wednesday,1292.1
+2025-03-05,Personal Care,9,332.54,10,No,Wednesday,2693.57
+2025-03-05,Grocery,5,156.52,15,No,Wednesday,665.21
+2025-03-06,Household,13,184.25,0,Yes,Thursday,2395.25
+2025-03-06,Personal Care,27,51.71,5,No,Thursday,1326.36
+2025-03-06,Grocery,17,37.54,15,No,Thursday,542.45
+2025-03-06,Snacks,25,52.42,5,No,Thursday,1244.97
+2025-03-06,Personal Care,8,356.89,0,No,Thursday,2855.12
+2025-03-06,Grocery,10,152.77,15,Yes,Thursday,1298.54
+2025-03-07,Household,2,42.46,5,No,Friday,80.67
+2025-03-07,Grocery,13,36.63,10,No,Friday,428.57
+2025-03-07,Beverages,12,109.35,0,No,Friday,1312.2
+2025-03-07,Household,6,48.74,5,No,Friday,277.82
+2025-03-07,Grocery,23,60.22,0,No,Friday,1385.06
+2025-03-08,Beverages,32,94.2,10,Yes,Saturday,2712.96
+2025-03-08,Personal Care,20,192.42,10,Yes,Saturday,3463.56
+2025-03-08,Personal Care,13,277.3,10,No,Saturday,3244.41
+2025-03-08,Grocery,11,148.74,5,Yes,Saturday,1554.33
+2025-03-08,Personal Care,31,331.95,10,No,Saturday,9261.4
+2025-03-09,Beverages,12,67.24,5,No,Sunday,766.54
+2025-03-09,Beverages,17,53.4,0,Yes,Sunday,907.8
+2025-03-09,Beverages,15,22.24,0,No,Sunday,333.6
+2025-03-09,Snacks,19,15.23,15,No,Sunday,245.96
+2025-03-09,Household,5,127.34,15,No,Sunday,541.2
+2025-03-09,Beverages,14,106.41,15,No,Sunday,1266.28
+2025-03-10,Household,29,169.07,20,No,Monday,3922.42
+2025-03-10,Beverages,13,100.14,0,Yes,Monday,1301.82
+2025-03-10,Household,5,283.81,0,Yes,Monday,1419.05
+2025-03-10,Beverages,10,102.29,0,Yes,Monday,1022.9
+2025-03-10,Snacks,1,73.24,10,No,Monday,65.92
+2025-03-10,Personal Care,8,70.56,0,No,Monday,564.48
+2025-03-10,Household,3,190.99,15,No,Monday,487.02
+2025-03-10,Household,26,55.27,0,Yes,Monday,1437.02
+2025-03-10,Snacks,3,91.56,0,No,Monday,274.68
+2025-03-11,Personal Care,30,351.48,0,No,Tuesday,10544.4
+2025-03-11,Beverages,29,52.82,0,No,Tuesday,1531.78
+2025-03-11,Household,15,186.02,5,No,Tuesday,2650.78
+2025-03-11,Grocery,20,220.38,20,No,Tuesday,3526.08
+2025-03-11,Personal Care,2,47.8,20,No,Tuesday,76.48
+2025-03-11,Personal Care,11,290.46,10,No,Tuesday,2875.55
+2025-03-12,Grocery,2,209.76,15,No,Wednesday,356.59
+2025-03-12,Personal Care,11,196.68,0,No,Wednesday,2163.48
+2025-03-12,Grocery,18,31.88,0,No,Wednesday,573.84
+2025-03-12,Beverages,35,81.81,10,Yes,Wednesday,2577.02
+2025-03-13,Household,30,263.39,20,Yes,Thursday,6321.36
+2025-03-13,Household,27,280.81,10,No,Thursday,6823.68
+2025-03-13,Beverages,11,22.57,15,No,Thursday,211.03
+2025-03-13,Snacks,13,81.33,0,Yes,Thursday,1057.29
+2025-03-13,Beverages,5,112.25,15,No,Thursday,477.06
+2025-03-13,Household,10,266.95,10,Yes,Thursday,2402.55
+2025-03-14,Household,23,249.85,10,Yes,Friday,5171.9
+2025-03-14,Household,32,177.09,15,Yes,Friday,4816.85
+2025-03-14,Household,27,269.38,15,No,Friday,6182.27
+2025-03-15,Grocery,33,112.41,5,No,Saturday,3524.05
+2025-03-15,Personal Care,11,359.06,5,No,Saturday,3752.18
+2025-03-15,Household,32,237.3,0,No,Saturday,7593.6
+2025-03-15,Snacks,25,35.26,10,Yes,Saturday,793.35
+2025-03-15,Personal Care,20,407.25,5,Yes,Saturday,7737.75
+2025-03-15,Grocery,25,84.97,15,No,Saturday,1805.61
+2025-03-16,Beverages,39,38.16,0,Yes,Sunday,1488.24
+2025-03-16,Grocery,13,200.14,0,No,Sunday,2601.82
+2025-03-16,Beverages,15,92.44,10,Yes,Sunday,1247.94
+2025-03-16,Snacks,14,73.2,10,No,Sunday,922.32
+2025-03-16,Beverages,32,42.89,5,Yes,Sunday,1303.86
+2025-03-16,Personal Care,22,166.68,15,Yes,Sunday,3116.92
+2025-03-16,Household,22,258.58,10,No,Sunday,5119.88
+2025-03-16,Snacks,18,47.06,15,No,Sunday,720.02
+2025-03-16,Household,9,335.64,0,No,Sunday,3020.76
+2025-03-17,Grocery,10,27.97,15,No,Monday,237.74
+2025-03-17,Snacks,8,28.42,0,No,Monday,227.36
+2025-03-17,Household,2,282.48,10,No,Monday,508.46
+2025-03-17,Snacks,15,98.3,15,No,Monday,1253.32
+2025-03-17,Beverages,9,77.33,0,No,Monday,695.97
+2025-03-18,Beverages,16,45.5,20,No,Tuesday,582.4
+2025-03-19,Beverages,24,54.62,20,No,Wednesday,1048.7
+2025-03-19,Household,11,96.84,0,No,Wednesday,1065.24
+2025-03-19,Personal Care,22,168.23,0,Yes,Wednesday,3701.06
+2025-03-19,Household,18,337.4,15,No,Wednesday,5162.22
+2025-03-19,Snacks,28,67.66,0,No,Wednesday,1894.48
+2025-03-20,Grocery,31,233.72,5,Yes,Thursday,6883.05
+2025-03-20,Snacks,22,51.22,10,No,Thursday,1014.16
+2025-03-20,Personal Care,17,383.82,0,No,Thursday,6524.94
+2025-03-20,Grocery,16,112.66,0,No,Thursday,1802.56
+2025-03-21,Grocery,27,204.91,20,No,Friday,4426.06
+2025-03-21,Beverages,6,71.88,0,No,Friday,431.28
+2025-03-21,Personal Care,3,216.88,0,No,Friday,650.64
+2025-03-22,Beverages,7,119.14,10,Yes,Saturday,750.58
+2025-03-22,Snacks,7,52.88,0,No,Saturday,370.16
+2025-03-22,Beverages,30,75.07,10,No,Saturday,2026.89
+2025-03-22,Household,20,291.1,20,No,Saturday,4657.6
+2025-03-22,Beverages,26,103.09,5,No,Saturday,2546.32
+2025-03-22,Household,6,273.53,0,No,Saturday,1641.18
+2025-03-22,Household,11,184.55,5,No,Saturday,1928.55
+2025-03-23,Household,27,164.01,0,Yes,Sunday,4428.27
+2025-03-23,Personal Care,25,416.18,0,No,Sunday,10404.5
+2025-03-23,Grocery,29,194.05,0,No,Sunday,5627.45
+2025-03-23,Household,16,178.06,0,No,Sunday,2848.96
+2025-03-23,Snacks,29,14.52,10,No,Sunday,378.97
+2025-03-24,Snacks,26,36.95,0,Yes,Monday,960.7
+2025-03-24,Beverages,30,90.42,15,No,Monday,2305.71
+2025-03-24,Household,23,314.83,5,No,Monday,6879.04
+2025-03-24,Beverages,21,106.74,15,No,Monday,1905.31
+2025-03-24,Snacks,20,46.39,5,No,Monday,881.41
+2025-03-25,Beverages,12,86.36,15,No,Tuesday,880.87
+2025-03-25,Grocery,19,116.36,0,No,Tuesday,2210.84
+2025-03-25,Beverages,19,99.67,0,Yes,Tuesday,1893.73
+2025-03-25,Beverages,27,60.57,10,No,Tuesday,1471.85
+2025-03-25,Beverages,4,16.2,10,No,Tuesday,58.32
+2025-03-25,Personal Care,10,316.3,10,No,Tuesday,2846.7
+2025-03-25,Snacks,17,89.98,0,No,Tuesday,1529.66
+2025-03-25,Household,24,331.78,10,No,Tuesday,7166.45
+2025-03-26,Personal Care,5,410.04,5,No,Wednesday,1947.69
+2025-03-26,Grocery,12,205.89,0,Yes,Wednesday,2470.68
+2025-03-26,Snacks,7,70.23,0,No,Wednesday,491.61
+2025-03-26,Personal Care,1,420.66,10,No,Wednesday,378.59
+2025-03-27,Grocery,9,36.33,10,No,Thursday,294.27
+2025-03-27,Beverages,4,69.75,5,No,Thursday,265.05
+2025-03-27,Personal Care,23,144.5,0,No,Thursday,3323.5
+2025-03-27,Beverages,22,67.32,0,No,Thursday,1481.04
+2025-03-27,Beverages,28,115.38,15,No,Thursday,2746.04
+2025-03-27,Personal Care,17,364.24,10,No,Thursday,5572.87
+2025-03-27,Snacks,10,68.03,15,No,Thursday,578.26
+2025-03-27,Snacks,24,29.88,10,No,Thursday,645.41
+2025-03-27,Snacks,7,12.99,5,No,Thursday,86.38
+2025-03-27,Grocery,16,217.38,0,No,Thursday,3478.08
+2025-03-27,Snacks,27,68.12,20,No,Thursday,1471.39
+2025-03-28,Grocery,4,120.48,0,No,Friday,481.92
+2025-03-29,Beverages,18,95.26,10,Yes,Saturday,1543.21
+2025-03-29,Grocery,5,187.22,10,No,Saturday,842.49
+2025-03-29,Snacks,14,24.41,20,No,Saturday,273.39
+2025-03-29,Household,11,143.04,20,No,Saturday,1258.75
+2025-03-30,Personal Care,17,347.19,0,No,Sunday,5902.23
+2025-03-30,Personal Care,38,45.57,15,Yes,Sunday,1471.91
+2025-03-30,Household,36,309.46,0,Yes,Sunday,11140.56
+2025-03-30,Beverages,2,50.52,10,No,Sunday,90.94
+2025-03-30,Grocery,17,197.47,5,No,Sunday,3189.14
+2025-03-30,Grocery,24,107.85,15,No,Sunday,2200.14
+2025-03-31,Grocery,23,53.8,5,No,Monday,1175.53
+2025-03-31,Personal Care,28,169.94,0,Yes,Monday,4758.32
+2025-03-31,Personal Care,17,275.83,15,No,Monday,3985.74
+2025-03-31,Beverages,3,51.7,20,Yes,Monday,124.08
+2025-03-31,Grocery,34,20.74,0,Yes,Monday,705.16
+2025-03-31,Personal Care,26,229.1,5,No,Monday,5658.77
+2025-03-31,Personal Care,14,238.76,0,No,Monday,3342.64
+2025-03-31,Household,23,309.28,0,No,Monday,7113.44
+2025-03-31,Household,17,203.77,10,Yes,Monday,3117.68
+2025-03-31,Household,17,57.87,5,No,Monday,934.6
+2025-03-31,Beverages,7,97.84,0,Yes,Monday,684.88
+2025-03-31,Beverages,30,56.29,0,No,Monday,1688.7
+2025-03-31,Beverages,12,88.21,0,No,Monday,1058.52
+2025-03-31,Grocery,28,178.3,5,No,Monday,4742.78
+2025-04-01,Personal Care,20,436.38,15,No,Tuesday,7418.46
+2025-04-01,Beverages,27,46.01,10,Yes,Tuesday,1118.04
+2025-04-01,Household,8,175.28,20,No,Tuesday,1121.79
+2025-04-02,Household,15,295.41,0,No,Wednesday,4431.15
+2025-04-02,Personal Care,32,355.71,15,Yes,Wednesday,9675.31
+2025-04-02,Household,13,318.03,0,No,Wednesday,4134.39
+2025-04-02,Household,29,266.12,0,No,Wednesday,7717.48
+2025-04-02,Snacks,14,69.67,15,No,Wednesday,829.07
+2025-04-02,Snacks,2,76.21,0,No,Wednesday,152.42
+2025-04-02,Snacks,24,13.55,20,No,Wednesday,260.16
+2025-04-02,Beverages,29,15.4,5,Yes,Wednesday,424.27
+2025-04-02,Snacks,27,31.66,15,No,Wednesday,726.6
+2025-04-03,Personal Care,4,55.46,10,No,Thursday,199.66
+2025-04-03,Grocery,14,66.31,20,Yes,Thursday,742.67
+2025-04-03,Grocery,8,234.3,0,Yes,Thursday,1874.4
+2025-04-03,Snacks,12,13.75,20,Yes,Thursday,132.0
+2025-04-03,Snacks,22,89.42,0,No,Thursday,1967.24
+2025-04-03,Personal Care,26,405.51,10,No,Thursday,9488.93
+2025-04-03,Grocery,23,192.19,10,No,Thursday,3978.33
+2025-04-03,Grocery,8,63.72,10,No,Thursday,458.78
+2025-04-04,Personal Care,2,42.01,10,No,Friday,75.62
+2025-04-04,Grocery,13,87.46,10,No,Friday,1023.28
+2025-04-04,Personal Care,8,144.99,15,No,Friday,985.93
+2025-04-04,Snacks,29,44.24,0,Yes,Friday,1282.96
+2025-04-04,Household,28,66.78,0,No,Friday,1869.84
+2025-04-04,Grocery,7,31.5,10,No,Friday,198.45
+2025-04-04,Grocery,30,47.65,15,Yes,Friday,1215.08
+2025-04-05,Snacks,24,13.3,20,Yes,Saturday,255.36
+2025-04-05,Beverages,12,103.58,10,No,Saturday,1118.66
+2025-04-05,Personal Care,2,395.65,10,No,Saturday,712.17
+2025-04-05,Snacks,30,85.07,10,Yes,Saturday,2296.89
+2025-04-05,Beverages,25,104.78,10,No,Saturday,2357.55
+2025-04-05,Grocery,33,136.2,10,No,Saturday,4045.14
+2025-04-05,Grocery,21,147.08,0,No,Saturday,3088.68
+2025-04-05,Snacks,20,93.37,15,No,Saturday,1587.29
+2025-04-05,Beverages,27,19.53,10,No,Saturday,474.58
+2025-04-06,Snacks,21,67.81,20,No,Sunday,1139.21
+2025-04-06,Snacks,26,66.66,15,Yes,Sunday,1473.19
+2025-04-06,Household,28,335.62,5,No,Sunday,8927.49
+2025-04-06,Snacks,29,11.96,5,No,Sunday,329.5
+2025-04-06,Household,9,232.02,0,Yes,Sunday,2088.18
+2025-04-06,Household,8,296.14,15,No,Sunday,2013.75
+2025-04-06,Beverages,25,93.04,0,No,Sunday,2326.0
+2025-04-06,Beverages,15,76.76,10,Yes,Sunday,1036.26
+2025-04-07,Grocery,23,231.19,0,No,Monday,5317.37
+2025-04-07,Snacks,28,79.9,10,No,Monday,2013.48
+2025-04-07,Beverages,23,60.01,15,No,Monday,1173.2
+2025-04-07,Snacks,16,95.54,10,No,Monday,1375.78
+2025-04-07,Beverages,29,111.08,10,Yes,Monday,2899.19
+2025-04-08,Personal Care,13,72.03,0,No,Tuesday,936.39
+2025-04-08,Beverages,28,103.93,10,Yes,Tuesday,2619.04
+2025-04-08,Personal Care,22,365.26,5,No,Tuesday,7633.93
+2025-04-08,Personal Care,31,165.1,0,Yes,Tuesday,5118.1
+2025-04-09,Beverages,14,20.46,0,Yes,Wednesday,286.44
+2025-04-09,Snacks,22,67.97,0,No,Wednesday,1495.34
+2025-04-09,Grocery,13,242.44,5,Yes,Wednesday,2994.13
+2025-04-09,Household,25,147.74,0,No,Wednesday,3693.5
+2025-04-09,Grocery,12,45.47,15,No,Wednesday,463.79
+2025-04-09,Household,25,249.71,5,No,Wednesday,5930.61
+2025-04-09,Snacks,15,51.75,0,No,Wednesday,776.25
+2025-04-09,Snacks,3,16.09,5,No,Wednesday,45.86
+2025-04-09,Grocery,14,34.37,10,Yes,Wednesday,433.06
+2025-04-09,Snacks,19,58.06,5,Yes,Wednesday,1047.98
+2025-04-09,Snacks,3,84.34,10,No,Wednesday,227.72
+2025-04-09,Grocery,28,91.16,0,No,Wednesday,2552.48
+2025-04-09,Beverages,26,30.97,0,No,Wednesday,805.22
+2025-04-10,Beverages,2,51.72,5,No,Thursday,98.27
+2025-04-10,Grocery,25,173.77,5,Yes,Thursday,4127.04
+2025-04-10,Snacks,15,89.11,5,No,Thursday,1269.82
+2025-04-10,Household,10,323.6,15,No,Thursday,2750.6
+2025-04-10,Snacks,17,30.35,15,No,Thursday,438.56
+2025-04-10,Personal Care,28,395.98,0,No,Thursday,11087.44
+2025-04-11,Beverages,29,44.07,10,No,Friday,1150.23
+2025-04-11,Beverages,28,107.05,5,No,Friday,2847.53
+2025-04-11,Beverages,1,16.04,0,No,Friday,16.04
+2025-04-11,Snacks,28,98.64,0,No,Friday,2761.92
+2025-04-11,Beverages,21,110.3,0,No,Friday,2316.3
+2025-04-11,Beverages,5,84.82,20,No,Friday,339.28
+2025-04-11,Grocery,11,204.61,15,Yes,Friday,1913.1
+2025-04-11,Personal Care,25,278.03,0,Yes,Friday,6950.75
+2025-04-11,Beverages,10,99.73,15,No,Friday,847.7
+2025-04-11,Personal Care,11,285.36,20,No,Friday,2511.17
+2025-04-12,Grocery,8,129.67,0,Yes,Saturday,1037.36
+2025-04-12,Grocery,11,222.47,15,No,Saturday,2080.09
+2025-04-13,Grocery,2,88.9,20,No,Sunday,142.24
+2025-04-13,Snacks,6,56.1,0,No,Sunday,336.6
+2025-04-13,Snacks,13,50.23,5,No,Sunday,620.34
+2025-04-13,Personal Care,16,94.43,0,Yes,Sunday,1510.88
+2025-04-13,Beverages,13,77.27,5,No,Sunday,954.28
+2025-04-13,Personal Care,34,45.57,5,Yes,Sunday,1471.91
+2025-04-14,Personal Care,18,282.6,15,No,Monday,4323.78
+2025-04-14,Beverages,29,111.55,20,No,Monday,2587.96
+2025-04-14,Snacks,14,54.7,5,No,Monday,727.51
+2025-04-14,Beverages,22,81.61,10,No,Monday,1615.88
+2025-04-14,Beverages,27,111.49,10,No,Monday,2709.21
+2025-04-14,Personal Care,23,417.95,15,Yes,Monday,8170.92
+2025-04-14,Grocery,16,54.24,0,No,Monday,867.84
+2025-04-14,Beverages,25,95.97,10,No,Monday,2159.33
+2025-04-14,Household,32,30.0,15,Yes,Monday,816.0
+2025-04-14,Personal Care,9,496.9,0,Yes,Monday,4472.1
+2025-04-14,Snacks,31,56.13,10,Yes,Monday,1566.03
+2025-04-14,Household,13,197.2,5,No,Monday,2435.42
+2025-04-14,Personal Care,26,291.36,10,No,Monday,6817.82
+2025-04-14,Grocery,20,79.84,0,No,Monday,1596.8
+2025-04-14,Personal Care,28,396.34,15,Yes,Monday,9432.89
+2025-04-15,Grocery,1,99.4,10,No,Tuesday,89.46
+2025-04-15,Household,24,331.98,0,No,Tuesday,7967.52
+2025-04-15,Beverages,28,17.45,15,Yes,Tuesday,415.31
+2025-04-15,Snacks,4,90.38,0,No,Tuesday,361.52
+2025-04-15,Beverages,1,88.89,0,No,Tuesday,88.89
+2025-04-15,Household,22,66.64,10,No,Tuesday,1319.47
+2025-04-16,Grocery,29,228.41,0,No,Wednesday,6623.89
+2025-04-16,Beverages,31,38.55,20,Yes,Wednesday,956.04
+2025-04-16,Snacks,6,75.56,10,Yes,Wednesday,408.02
+2025-04-16,Beverages,29,110.63,15,No,Wednesday,2727.03
+2025-04-17,Grocery,4,28.64,0,No,Thursday,114.56
+2025-04-17,Personal Care,27,369.51,5,No,Thursday,9477.93
+2025-04-17,Snacks,23,25.03,0,No,Thursday,575.69
+2025-04-17,Household,21,311.65,10,No,Thursday,5890.18
+2025-04-18,Snacks,21,41.08,0,No,Friday,862.68
+2025-04-18,Snacks,34,29.61,0,Yes,Friday,1006.74
+2025-04-18,Personal Care,1,59.3,0,No,Friday,59.3
+2025-04-18,Snacks,6,23.27,0,No,Friday,139.62
+2025-04-18,Household,9,209.34,15,Yes,Friday,1601.45
+2025-04-19,Household,6,306.66,5,Yes,Saturday,1747.96
+2025-04-19,Snacks,33,43.28,5,No,Saturday,1356.83
+2025-04-19,Household,11,277.68,15,No,Saturday,2596.31
+2025-04-19,Snacks,24,34.08,20,No,Saturday,654.34
+2025-04-19,Snacks,33,28.29,5,No,Saturday,886.89
+2025-04-19,Household,13,139.81,15,No,Saturday,1544.9
+2025-04-19,Beverages,28,69.95,15,No,Saturday,1664.81
+2025-04-19,Beverages,12,31.22,5,Yes,Saturday,355.91
+2025-04-19,Grocery,20,84.97,0,No,Saturday,1699.4
+2025-04-20,Grocery,24,95.95,10,No,Sunday,2072.52
+2025-04-20,Beverages,16,37.12,5,No,Sunday,564.22
+2025-04-20,Snacks,5,63.16,0,No,Sunday,315.8
+2025-04-21,Household,1,68.88,0,No,Monday,68.88
+2025-04-21,Grocery,8,115.81,0,No,Monday,926.48
+2025-04-21,Snacks,11,74.26,0,No,Monday,816.86
+2025-04-21,Grocery,24,171.19,10,Yes,Monday,3697.7
+2025-04-21,Beverages,17,91.02,0,Yes,Monday,1547.34
+2025-04-21,Grocery,29,69.11,5,Yes,Monday,1903.98
+2025-04-21,Household,18,34.7,0,Yes,Monday,624.6
+2025-04-21,Grocery,22,107.19,0,Yes,Monday,2358.18
+2025-04-21,Grocery,29,24.45,0,No,Monday,709.05
+2025-04-21,Snacks,26,24.22,0,No,Monday,629.72
+2025-04-21,Household,30,282.02,10,No,Monday,7614.54
+2025-04-22,Household,31,276.45,0,Yes,Tuesday,8569.95
+2025-04-22,Personal Care,25,92.48,0,No,Tuesday,2312.0
+2025-04-22,Beverages,24,21.93,0,No,Tuesday,526.32
+2025-04-22,Household,29,176.96,0,Yes,Tuesday,5131.84
+2025-04-22,Beverages,29,93.87,10,Yes,Tuesday,2450.01
+2025-04-23,Grocery,18,133.36,10,No,Wednesday,2160.43
+2025-04-23,Household,4,280.18,10,No,Wednesday,1008.65
+2025-04-23,Snacks,30,56.63,5,No,Wednesday,1613.96
+2025-04-23,Beverages,4,34.54,5,No,Wednesday,131.25
+2025-04-23,Personal Care,6,421.1,0,Yes,Wednesday,2526.6
+2025-04-23,Beverages,33,27.19,5,Yes,Wednesday,852.41
+2025-04-23,Beverages,32,21.9,15,Yes,Wednesday,595.68
+2025-04-23,Grocery,17,125.38,0,No,Wednesday,2131.46
+2025-04-23,Personal Care,4,101.4,15,No,Wednesday,344.76
+2025-04-23,Grocery,6,169.72,5,No,Wednesday,967.4
+2025-04-23,Snacks,24,22.67,10,No,Wednesday,489.67
+2025-04-23,Grocery,24,79.25,15,No,Wednesday,1616.7
+2025-04-23,Beverages,19,53.75,0,No,Wednesday,1021.25
+2025-04-23,Beverages,4,38.66,20,No,Wednesday,123.71
+2025-04-24,Personal Care,22,434.84,15,Yes,Thursday,8131.51
+2025-04-24,Snacks,17,54.42,10,No,Thursday,832.63
+2025-04-24,Snacks,17,44.59,0,Yes,Thursday,758.03
+2025-04-24,Household,7,55.41,0,Yes,Thursday,387.87
+2025-04-25,Household,21,66.43,0,No,Friday,1395.03
+2025-04-25,Household,22,293.07,10,No,Friday,5802.79
+2025-04-25,Personal Care,22,151.29,0,No,Friday,3328.38
+2025-04-25,Household,18,96.26,0,Yes,Friday,1732.68
+2025-04-25,Grocery,19,245.63,5,No,Friday,4433.62
+2025-04-25,Household,20,246.38,0,No,Friday,4927.6
+2025-04-25,Household,22,293.1,0,No,Friday,6448.2
+2025-04-25,Personal Care,26,319.57,5,Yes,Friday,7893.38
+2025-04-25,Snacks,16,80.26,0,No,Friday,1284.16
+2025-04-26,Grocery,21,77.4,5,No,Saturday,1544.13
+2025-04-26,Grocery,28,166.32,20,No,Saturday,3725.57
+2025-04-26,Beverages,13,72.4,5,No,Saturday,894.14
+2025-04-26,Household,10,177.93,0,No,Saturday,1779.3
+2025-04-26,Household,22,163.68,20,No,Saturday,2880.77
+2025-04-27,Personal Care,35,312.88,10,No,Sunday,9855.72
+2025-04-27,Personal Care,9,130.59,0,Yes,Sunday,1175.31
+2025-04-27,Personal Care,24,451.24,10,No,Sunday,9746.78
+2025-04-27,Grocery,25,227.56,20,No,Sunday,4551.2
+2025-04-27,Beverages,15,26.82,0,No,Sunday,402.3
+2025-04-27,Grocery,22,99.87,0,No,Sunday,2197.14
+2025-04-27,Beverages,13,101.8,0,Yes,Sunday,1323.4
+2025-04-27,Beverages,18,80.17,20,Yes,Sunday,1154.45
+2025-04-27,Grocery,29,88.2,15,Yes,Sunday,2174.13
+2025-04-27,Grocery,9,43.58,0,No,Sunday,392.22
+2025-04-28,Personal Care,24,52.05,5,No,Monday,1186.74
+2025-04-28,Snacks,30,22.53,15,No,Monday,574.52
+2025-04-28,Household,1,318.93,0,No,Monday,318.93
+2025-04-28,Snacks,21,56.82,15,No,Monday,1014.24
+2025-04-28,Beverages,16,22.94,5,No,Monday,348.69
+2025-04-28,Snacks,18,62.35,5,No,Monday,1066.18
+2025-04-28,Grocery,3,133.23,15,Yes,Monday,339.74
+2025-04-28,Snacks,36,78.57,15,Yes,Monday,2404.24
+2025-04-28,Beverages,24,84.15,0,No,Monday,2019.6
+2025-04-28,Household,15,105.19,0,Yes,Monday,1577.85
+2025-04-28,Grocery,8,89.67,0,No,Monday,717.36
+2025-04-29,Beverages,27,29.34,10,Yes,Tuesday,712.96
+2025-04-29,Household,25,153.69,5,No,Tuesday,3650.14
+2025-04-29,Snacks,5,44.24,5,No,Tuesday,210.14
+2025-04-30,Snacks,23,95.63,20,No,Wednesday,1759.59
+2025-04-30,Household,13,338.1,0,No,Wednesday,4395.3
+2025-04-30,Personal Care,27,100.48,10,No,Wednesday,2441.66
+2025-04-30,Grocery,30,237.51,5,No,Wednesday,6769.03
+2025-04-30,Snacks,19,30.74,15,No,Wednesday,496.45
+2025-05-01,Household,11,232.47,5,No,Thursday,2429.31
+2025-05-01,Grocery,22,116.89,0,Yes,Thursday,2571.58
+2025-05-01,Household,22,277.33,0,No,Thursday,6101.26
+2025-05-01,Grocery,7,234.62,15,Yes,Thursday,1395.99
+2025-05-02,Snacks,30,45.56,15,Yes,Friday,1161.78
+2025-05-02,Snacks,4,86.36,10,No,Friday,310.9
+2025-05-02,Household,20,251.6,0,No,Friday,5032.0
+2025-05-02,Household,3,44.99,15,No,Friday,114.72
+2025-05-02,Household,3,250.29,0,No,Friday,750.87
+2025-05-02,Beverages,20,115.43,5,No,Friday,2193.17
+2025-05-02,Beverages,12,77.83,10,No,Friday,840.56
+2025-05-03,Grocery,20,33.12,10,No,Saturday,596.16
+2025-05-03,Beverages,23,73.28,15,No,Saturday,1432.62
+2025-05-03,Snacks,19,26.13,5,Yes,Saturday,471.65
+2025-05-03,Grocery,10,87.86,0,No,Saturday,878.6
+2025-05-03,Grocery,20,219.36,0,Yes,Saturday,4387.2
+2025-05-03,Grocery,22,214.56,0,No,Saturday,4720.32
+2025-05-03,Grocery,25,76.89,10,No,Saturday,1730.02
+2025-05-04,Beverages,18,21.86,0,No,Sunday,393.48
+2025-05-04,Grocery,26,121.27,10,No,Sunday,2837.72
+2025-05-04,Snacks,18,32.9,20,No,Sunday,473.76
+2025-05-04,Personal Care,11,174.42,0,No,Sunday,1918.62
+2025-05-04,Grocery,28,144.71,20,No,Sunday,3241.5
+2025-05-04,Snacks,8,41.99,10,No,Sunday,302.33
+2025-05-05,Beverages,10,87.89,15,No,Monday,747.06
+2025-05-05,Snacks,29,75.6,0,Yes,Monday,2192.4
+2025-05-06,Snacks,28,14.33,15,Yes,Tuesday,341.05
+2025-05-06,Snacks,20,16.46,20,No,Tuesday,263.36
+2025-05-06,Snacks,20,33.39,0,No,Tuesday,667.8
+2025-05-06,Beverages,22,56.49,0,No,Tuesday,1242.78
+2025-05-06,Household,13,80.85,20,Yes,Tuesday,840.84
+2025-05-06,Household,16,152.95,5,No,Tuesday,2324.84
+2025-05-06,Snacks,32,12.48,0,Yes,Tuesday,399.36
+2025-05-07,Household,14,81.21,0,Yes,Wednesday,1136.94
+2025-05-07,Beverages,20,115.46,15,No,Wednesday,1962.82
+2025-05-07,Household,28,339.39,5,No,Wednesday,9027.77
+2025-05-07,Personal Care,12,288.77,0,Yes,Wednesday,3465.24
+2025-05-07,Grocery,8,42.2,15,No,Wednesday,286.96
+2025-05-08,Personal Care,11,69.99,10,No,Thursday,692.9
+2025-05-08,Snacks,9,82.64,0,No,Thursday,743.76
+2025-05-08,Beverages,3,110.9,5,No,Thursday,316.07
+2025-05-08,Snacks,1,24.82,5,No,Thursday,23.58
+2025-05-08,Snacks,8,68.7,0,No,Thursday,549.6
+2025-05-08,Household,28,189.3,10,No,Thursday,4770.36
+2025-05-08,Personal Care,9,470.94,0,No,Thursday,4238.46
+2025-05-08,Beverages,28,77.81,10,No,Thursday,1960.81
+2025-05-08,Grocery,15,58.17,0,No,Thursday,872.55
+2025-05-09,Beverages,8,91.6,20,No,Friday,586.24
+2025-05-09,Household,13,263.86,15,No,Friday,2915.65
+2025-05-09,Personal Care,22,446.39,10,No,Friday,8838.52
+2025-05-09,Grocery,28,249.62,20,No,Friday,5591.49
+2025-05-09,Snacks,16,86.56,10,No,Friday,1246.46
+2025-05-09,Snacks,17,51.54,5,Yes,Friday,832.37
+2025-05-09,Household,16,315.54,10,Yes,Friday,4543.78
+2025-05-09,Beverages,5,64.22,10,No,Friday,288.99
+2025-05-10,Snacks,27,26.75,20,Yes,Saturday,577.8
+2025-05-10,Household,29,324.72,0,No,Saturday,9416.88
+2025-05-10,Personal Care,26,321.95,15,No,Saturday,7115.09
+2025-05-10,Personal Care,17,209.61,0,Yes,Saturday,3563.37
+2025-05-10,Snacks,20,88.55,0,No,Saturday,1771.0
+2025-05-10,Beverages,35,115.58,5,Yes,Saturday,3843.03
+2025-05-10,Snacks,15,40.5,0,No,Saturday,607.5
+2025-05-10,Personal Care,10,320.7,10,Yes,Saturday,2886.3
+2025-05-10,Household,27,190.19,0,No,Saturday,5135.13
+2025-05-10,Grocery,5,187.43,5,No,Saturday,890.29
+2025-05-10,Household,28,56.29,10,Yes,Saturday,1418.51
+2025-05-10,Beverages,14,48.01,0,No,Saturday,672.14
+2025-05-11,Household,32,123.7,0,No,Sunday,3958.4
+2025-05-11,Grocery,14,104.71,0,No,Sunday,1465.94
+2025-05-11,Grocery,16,213.64,5,No,Sunday,3247.33
+2025-05-11,Grocery,19,62.59,0,No,Sunday,1189.21
+2025-05-11,Snacks,6,10.12,0,Yes,Sunday,60.72
+2025-05-11,Snacks,12,17.36,0,Yes,Sunday,208.32
+2025-05-11,Grocery,18,86.53,20,No,Sunday,1246.03
+2025-05-12,Personal Care,23,170.77,20,No,Monday,3142.17
+2025-05-12,Household,10,161.08,20,No,Monday,1288.64
+2025-05-12,Grocery,28,149.97,10,No,Monday,3779.24
+2025-05-12,Personal Care,12,69.83,15,No,Monday,712.27
+2025-05-12,Snacks,6,21.53,0,No,Monday,129.18
+2025-05-12,Snacks,3,98.11,10,Yes,Monday,264.9
+2025-05-12,Personal Care,2,156.03,0,No,Monday,312.06
+2025-05-12,Beverages,6,43.5,5,No,Monday,247.95
+2025-05-13,Grocery,27,37.86,0,Yes,Tuesday,1022.22
+2025-05-13,Household,6,127.26,0,No,Tuesday,763.56
+2025-05-13,Grocery,15,71.99,20,Yes,Tuesday,863.88
+2025-05-13,Snacks,20,85.84,5,Yes,Tuesday,1630.96
+2025-05-13,Beverages,25,60.14,0,No,Tuesday,1503.5
+2025-05-13,Grocery,15,24.4,10,No,Tuesday,329.4
+2025-05-13,Household,30,347.22,15,No,Tuesday,8854.11
+2025-05-14,Household,25,256.47,15,No,Wednesday,5449.99
+2025-05-14,Personal Care,18,108.45,0,No,Wednesday,1952.1
+2025-05-14,Personal Care,19,220.53,0,Yes,Wednesday,4190.07
+2025-05-14,Grocery,20,111.54,10,Yes,Wednesday,2007.72
+2025-05-14,Grocery,16,54.87,0,No,Wednesday,877.92
+2025-05-14,Household,5,344.88,5,No,Wednesday,1638.18
+2025-05-14,Personal Care,9,402.76,0,No,Wednesday,3624.84
+2025-05-14,Household,15,177.37,20,Yes,Wednesday,2128.44
+2025-05-15,Personal Care,11,316.87,15,No,Thursday,2962.73
+2025-05-15,Beverages,18,52.32,0,Yes,Thursday,941.76
+2025-05-15,Personal Care,34,384.46,5,Yes,Thursday,12418.06
+2025-05-15,Personal Care,2,462.48,20,No,Thursday,739.97
+2025-05-15,Grocery,24,136.7,15,Yes,Thursday,2788.68
+2025-05-15,Beverages,6,110.47,20,No,Thursday,530.26
+2025-05-15,Household,7,252.27,20,Yes,Thursday,1412.71
+2025-05-16,Beverages,30,51.32,15,No,Friday,1308.66
+2025-05-16,Snacks,28,18.93,15,No,Friday,450.53
+2025-05-16,Beverages,2,15.98,10,No,Friday,28.76
+2025-05-16,Household,27,102.88,0,Yes,Friday,2777.76
+2025-05-16,Beverages,20,64.75,20,Yes,Friday,1036.0
+2025-05-16,Household,22,315.62,20,No,Friday,5554.91
+2025-05-16,Snacks,31,51.75,0,Yes,Friday,1604.25
+2025-05-17,Household,13,162.04,10,Yes,Saturday,1895.87
+2025-05-17,Grocery,20,213.15,0,No,Saturday,4263.0
+2025-05-17,Beverages,12,52.57,5,No,Saturday,599.3
+2025-05-17,Household,21,107.41,0,No,Saturday,2255.61
+2025-05-17,Household,16,124.9,0,Yes,Saturday,1998.4
+2025-05-17,Household,15,348.34,0,Yes,Saturday,5225.1
+2025-05-17,Grocery,13,105.5,10,Yes,Saturday,1234.35
+2025-05-17,Personal Care,30,210.74,20,No,Saturday,5057.76
+2025-05-17,Personal Care,31,234.41,20,Yes,Saturday,5813.37
+2025-05-18,Grocery,15,121.98,10,No,Sunday,1646.73
+2025-05-18,Household,19,173.26,0,No,Sunday,3291.94
+2025-05-18,Grocery,15,158.8,0,No,Sunday,2382.0
+2025-05-18,Beverages,33,58.16,0,No,Sunday,1919.28
+2025-05-18,Beverages,8,26.71,5,No,Sunday,203.0
+2025-05-19,Beverages,21,94.74,10,No,Monday,1790.59
+2025-05-19,Grocery,5,99.39,0,No,Monday,496.95
+2025-05-19,Personal Care,26,374.17,5,No,Monday,9242.0
+2025-05-20,Beverages,29,68.16,15,No,Tuesday,1680.14
+2025-05-20,Personal Care,20,105.38,10,Yes,Tuesday,1896.84
+2025-05-20,Grocery,2,22.85,10,No,Tuesday,41.13
+2025-05-20,Grocery,16,163.16,0,No,Tuesday,2610.56
+2025-05-20,Household,27,70.92,0,No,Tuesday,1914.84
+2025-05-20,Beverages,8,69.96,5,No,Tuesday,531.7
+2025-05-20,Snacks,19,71.08,10,No,Tuesday,1215.47
+2025-05-21,Snacks,13,74.66,0,No,Wednesday,970.58
+2025-05-21,Snacks,16,62.21,0,Yes,Wednesday,995.36
+2025-05-21,Snacks,29,48.79,10,No,Wednesday,1273.42
+2025-05-21,Snacks,15,96.76,5,No,Wednesday,1378.83
+2025-05-21,Household,24,32.45,0,No,Wednesday,778.8
+2025-05-21,Grocery,10,38.44,10,Yes,Wednesday,345.96
+2025-05-21,Personal Care,25,392.15,5,No,Wednesday,9313.56
+2025-05-21,Grocery,16,83.43,20,No,Wednesday,1067.9
+2025-05-22,Household,32,313.58,0,Yes,Thursday,10034.56
+2025-05-22,Snacks,16,50.61,20,Yes,Thursday,647.81
+2025-05-22,Grocery,31,206.56,10,Yes,Thursday,5763.02
+2025-05-22,Beverages,8,114.51,0,No,Thursday,916.08
+2025-05-22,Personal Care,26,98.08,10,No,Thursday,2295.07
+2025-05-22,Household,28,300.59,10,No,Thursday,7574.87
+2025-05-23,Household,20,209.68,10,No,Friday,3774.24
+2025-05-23,Grocery,24,94.77,15,No,Friday,1933.31
+2025-05-23,Snacks,29,95.7,5,No,Friday,2636.54
+2025-05-23,Beverages,23,84.56,10,No,Friday,1750.39
+2025-05-23,Snacks,8,34.32,0,Yes,Friday,274.56
+2025-05-23,Household,18,44.05,10,Yes,Friday,713.61
+2025-05-24,Grocery,11,41.59,0,No,Saturday,457.49
+2025-05-24,Household,34,323.78,15,No,Saturday,9357.24
+2025-05-24,Grocery,33,165.85,0,Yes,Saturday,5473.05
+2025-05-24,Personal Care,33,497.9,10,No,Saturday,14787.63
+2025-05-24,Household,16,224.73,10,No,Saturday,3236.11
+2025-05-24,Personal Care,24,246.88,20,No,Saturday,4740.1
+2025-05-24,Household,39,68.58,0,Yes,Saturday,2674.62
+2025-05-24,Household,15,44.0,10,Yes,Saturday,594.0
+2025-05-24,Household,15,230.39,15,No,Saturday,2937.47
+2025-05-24,Grocery,10,52.86,15,Yes,Saturday,449.31
+2025-05-25,Personal Care,27,204.59,5,Yes,Sunday,5247.73
+2025-05-25,Household,29,35.76,20,Yes,Sunday,829.63
+2025-05-25,Personal Care,28,227.27,15,No,Sunday,5409.03
+2025-05-25,Beverages,25,101.35,10,No,Sunday,2280.38
+2025-05-25,Snacks,29,36.0,0,No,Sunday,1044.0
+2025-05-25,Beverages,37,52.67,0,Yes,Sunday,1948.79
+2025-05-25,Beverages,29,44.63,20,No,Sunday,1035.42
+2025-05-25,Grocery,25,166.49,0,No,Sunday,4162.25
+2025-05-25,Grocery,19,143.9,0,No,Sunday,2734.1
+2025-05-25,Household,7,314.87,10,No,Sunday,1983.68
+2025-05-25,Beverages,13,98.0,15,No,Sunday,1082.9
+2025-05-26,Grocery,18,90.45,15,No,Monday,1383.88
+2025-05-26,Snacks,19,25.97,20,No,Monday,394.74
+2025-05-26,Household,22,112.99,20,No,Monday,1988.62
+2025-05-26,Snacks,22,85.19,10,No,Monday,1686.76
+2025-05-26,Grocery,5,79.48,20,No,Monday,317.92
+2025-05-26,Personal Care,13,44.16,10,No,Monday,516.67
+2025-05-26,Household,3,306.98,10,No,Monday,828.85
+2025-05-27,Household,29,224.27,10,No,Tuesday,5853.45
+2025-05-27,Grocery,14,196.07,0,Yes,Tuesday,2744.98
+2025-05-27,Grocery,18,92.86,20,Yes,Tuesday,1337.18
+2025-05-27,Personal Care,22,242.6,0,Yes,Tuesday,5337.2
+2025-05-27,Beverages,5,99.52,15,No,Tuesday,422.96
+2025-05-27,Household,6,145.81,10,Yes,Tuesday,787.37
+2025-05-27,Grocery,34,142.46,10,Yes,Tuesday,4359.28
+2025-05-27,Grocery,30,182.8,10,No,Tuesday,4935.6
+2025-05-27,Household,19,141.15,0,No,Tuesday,2681.85
+2025-05-27,Personal Care,16,365.21,0,No,Tuesday,5843.36
+2025-05-28,Snacks,15,49.39,0,No,Wednesday,740.85
+2025-05-28,Household,6,38.69,10,No,Wednesday,208.93
+2025-05-28,Personal Care,27,456.96,15,No,Wednesday,10487.23
+2025-05-28,Household,11,176.66,15,No,Wednesday,1651.77
+2025-05-28,Household,28,317.95,0,Yes,Wednesday,8902.6
+2025-05-28,Grocery,19,212.24,10,No,Wednesday,3629.3
+2025-05-28,Household,4,39.91,5,No,Wednesday,151.66
+2025-05-29,Snacks,28,59.83,10,No,Thursday,1507.72
+2025-05-29,Beverages,6,19.45,15,No,Thursday,99.2
+2025-05-29,Beverages,8,25.7,20,Yes,Thursday,164.48
+2025-05-29,Snacks,10,50.35,0,No,Thursday,503.5
+2025-05-29,Beverages,21,94.2,15,Yes,Thursday,1681.47
+2025-05-30,Household,17,194.05,5,No,Friday,3133.91
+2025-05-30,Grocery,17,57.5,15,No,Friday,830.88
+2025-05-30,Grocery,32,244.48,10,Yes,Friday,7041.02
+2025-05-30,Snacks,25,25.67,0,No,Friday,641.75
+2025-05-30,Snacks,30,16.58,0,No,Friday,497.4
+2025-05-31,Beverages,6,75.61,10,No,Saturday,408.29
+2025-05-31,Snacks,14,52.51,0,No,Saturday,735.14
+2025-05-31,Grocery,2,191.52,20,No,Saturday,306.43
+2025-05-31,Personal Care,30,40.72,15,No,Saturday,1038.36
+2025-05-31,Personal Care,37,418.37,15,Yes,Saturday,13157.74
+2025-05-31,Beverages,7,53.95,5,No,Saturday,358.77
+2025-05-31,Snacks,17,68.88,0,No,Saturday,1170.96
+2025-05-31,Personal Care,31,330.22,5,No,Saturday,9724.98
+2025-05-31,Snacks,30,83.72,5,No,Saturday,2386.02
+2025-05-31,Beverages,31,26.65,0,No,Saturday,826.15
+2025-05-31,Personal Care,22,306.79,10,No,Saturday,6074.44
+2025-06-01,Grocery,29,208.88,10,Yes,Sunday,5451.77
+2025-06-01,Personal Care,19,368.46,0,Yes,Sunday,7000.74
+2025-06-01,Household,22,145.92,0,No,Sunday,3210.24
+2025-06-01,Household,22,241.64,0,No,Sunday,5316.08
+2025-06-01,Household,5,195.75,20,No,Sunday,783.0
+2025-06-01,Household,18,301.06,15,Yes,Sunday,4606.22
+2025-06-01,Grocery,20,131.48,10,No,Sunday,2366.64
+2025-06-01,Snacks,15,24.92,20,No,Sunday,299.04
+2025-06-01,Grocery,26,173.88,20,No,Sunday,3616.7
+2025-06-01,Grocery,23,163.38,15,No,Sunday,3194.08
+2025-06-01,Grocery,6,191.03,20,Yes,Sunday,916.94
+2025-06-01,Snacks,28,98.07,0,Yes,Sunday,2745.96
+2025-06-01,Beverages,6,29.91,0,Yes,Sunday,179.46
+2025-06-02,Beverages,11,27.44,10,No,Monday,271.66
+2025-06-02,Snacks,3,80.77,0,No,Monday,242.31
+2025-06-02,Snacks,7,96.03,10,No,Monday,604.99
+2025-06-02,Household,23,306.34,5,No,Monday,6693.53
+2025-06-02,Grocery,4,84.23,15,No,Monday,286.38
+2025-06-02,Grocery,5,75.17,15,No,Monday,319.47
+2025-06-03,Beverages,10,84.99,10,No,Tuesday,764.91
+2025-06-03,Grocery,35,188.54,15,Yes,Tuesday,5609.06
+2025-06-03,Personal Care,17,308.09,0,Yes,Tuesday,5237.53
+2025-06-03,Household,14,194.43,0,No,Tuesday,2722.02
+2025-06-03,Beverages,5,94.11,10,No,Tuesday,423.5
+2025-06-03,Household,18,46.75,10,No,Tuesday,757.35
+2025-06-03,Beverages,20,97.55,0,No,Tuesday,1951.0
+2025-06-03,Grocery,26,111.31,10,No,Tuesday,2604.65
+2025-06-03,Household,11,338.09,20,Yes,Tuesday,2975.19
+2025-06-04,Beverages,21,58.04,0,No,Wednesday,1218.84
+2025-06-04,Snacks,12,21.76,5,No,Wednesday,248.06
+2025-06-04,Personal Care,27,192.52,15,No,Wednesday,4418.33
+2025-06-04,Grocery,3,102.47,10,Yes,Wednesday,276.67
+2025-06-04,Household,10,62.58,0,No,Wednesday,625.8
+2025-06-04,Personal Care,17,366.71,15,No,Wednesday,5298.96
+2025-06-04,Household,16,58.57,5,No,Wednesday,890.26
+2025-06-04,Grocery,4,32.5,0,No,Wednesday,130.0
+2025-06-05,Household,20,265.02,0,No,Thursday,5300.4
+2025-06-05,Household,16,212.2,0,No,Thursday,3395.2
+2025-06-06,Grocery,11,75.29,0,Yes,Friday,828.19
+2025-06-06,Grocery,16,202.67,0,No,Friday,3242.72
+2025-06-06,Household,15,332.87,5,No,Friday,4743.4
+2025-06-06,Beverages,25,119.25,0,No,Friday,2981.25
+2025-06-06,Snacks,14,80.23,0,Yes,Friday,1123.22
+2025-06-06,Snacks,10,55.75,5,No,Friday,529.62
+2025-06-06,Beverages,23,41.36,5,No,Friday,903.72
+2025-06-07,Personal Care,19,483.66,0,No,Saturday,9189.54
+2025-06-07,Personal Care,21,132.93,0,No,Saturday,2791.53
+2025-06-07,Personal Care,24,161.92,20,Yes,Saturday,3108.86
+2025-06-07,Grocery,19,193.41,0,No,Saturday,3674.79
+2025-06-08,Beverages,23,35.8,15,No,Sunday,699.89
+2025-06-08,Snacks,13,96.98,5,No,Sunday,1197.7
+2025-06-08,Beverages,10,69.25,15,No,Sunday,588.62
+2025-06-08,Personal Care,14,318.66,0,No,Sunday,4461.24
+2025-06-09,Snacks,24,98.57,10,No,Monday,2129.11
+2025-06-09,Personal Care,15,477.24,10,No,Monday,6442.74
+2025-06-09,Snacks,6,69.13,5,No,Monday,394.04
+2025-06-09,Personal Care,29,435.66,10,No,Monday,11370.73
+2025-06-09,Beverages,33,55.48,0,Yes,Monday,1830.84
+2025-06-09,Grocery,21,93.04,5,Yes,Monday,1856.15
+2025-06-09,Snacks,23,34.28,15,Yes,Monday,670.17
+2025-06-09,Beverages,17,115.44,5,No,Monday,1864.36
+2025-06-09,Beverages,22,17.54,15,No,Monday,328.0
+2025-06-10,Grocery,13,149.28,15,No,Tuesday,1649.54
+2025-06-10,Snacks,20,51.33,0,Yes,Tuesday,1026.6
+2025-06-10,Grocery,22,128.67,0,No,Tuesday,2830.74
+2025-06-10,Household,18,124.54,0,No,Tuesday,2241.72
+2025-06-10,Grocery,16,65.1,10,No,Tuesday,937.44
+2025-06-10,Personal Care,11,483.16,10,No,Tuesday,4783.28
+2025-06-10,Beverages,4,85.13,0,No,Tuesday,340.52
+2025-06-10,Beverages,16,104.25,5,No,Tuesday,1584.6
+2025-06-10,Household,20,314.29,5,No,Tuesday,5971.51
+2025-06-10,Household,14,69.94,20,No,Tuesday,783.33
+2025-06-10,Snacks,23,90.11,15,No,Tuesday,1761.65
+2025-06-10,Household,18,170.53,10,Yes,Tuesday,2762.59
+2025-06-10,Personal Care,26,444.61,5,Yes,Tuesday,10981.87
+2025-06-11,Personal Care,20,367.39,10,No,Wednesday,6613.02
+2025-06-11,Beverages,18,15.55,5,Yes,Wednesday,265.91
+2025-06-11,Household,27,276.06,20,No,Wednesday,5962.9
+2025-06-11,Personal Care,7,492.95,10,No,Wednesday,3105.58
+2025-06-11,Beverages,30,91.54,0,No,Wednesday,2746.2
+2025-06-11,Household,7,227.46,0,No,Wednesday,1592.22
+2025-06-12,Beverages,17,85.66,10,No,Thursday,1310.6
+2025-06-12,Snacks,18,28.83,0,No,Thursday,518.94
+2025-06-12,Household,11,286.02,10,Yes,Thursday,2831.6
+2025-06-12,Household,14,95.56,15,No,Thursday,1137.16
+2025-06-12,Beverages,2,22.45,10,No,Thursday,40.41
+2025-06-12,Beverages,30,57.16,15,Yes,Thursday,1457.58
+2025-06-13,Grocery,28,172.03,0,No,Friday,4816.84
+2025-06-13,Grocery,9,129.38,0,Yes,Friday,1164.42
+2025-06-13,Personal Care,26,436.23,0,Yes,Friday,11341.98
+2025-06-13,Grocery,19,145.45,10,No,Friday,2487.19
+2025-06-13,Grocery,26,211.74,10,No,Friday,4954.72
+2025-06-13,Beverages,11,29.62,15,Yes,Friday,276.95
+2025-06-13,Personal Care,13,72.73,0,No,Friday,945.49
+2025-06-13,Beverages,23,83.95,10,No,Friday,1737.76
+2025-06-13,Snacks,29,34.73,5,No,Friday,956.81
+2025-06-13,Snacks,18,47.96,5,Yes,Friday,820.12
+2025-06-14,Beverages,12,31.98,5,No,Saturday,364.57
+2025-06-14,Personal Care,27,303.06,5,Yes,Saturday,7773.49
+2025-06-14,Snacks,9,48.75,0,Yes,Saturday,438.75
+2025-06-14,Household,31,73.02,0,Yes,Saturday,2263.62
+2025-06-15,Household,28,60.53,5,No,Sunday,1610.1
+2025-06-15,Personal Care,28,105.59,10,No,Sunday,2660.87
+2025-06-15,Personal Care,5,68.65,0,No,Sunday,343.25
+2025-06-15,Beverages,17,99.37,5,Yes,Sunday,1604.83
+2025-06-15,Household,12,54.6,10,No,Sunday,589.68
+2025-06-15,Beverages,17,78.31,0,No,Sunday,1331.27
+2025-06-16,Grocery,25,193.93,20,No,Monday,3878.6
+2025-06-16,Grocery,17,247.25,10,No,Monday,3782.92
+2025-06-16,Household,12,289.77,0,No,Monday,3477.24
+2025-06-16,Personal Care,15,340.05,5,No,Monday,4845.71
+2025-06-17,Grocery,17,160.48,0,No,Tuesday,2728.16
+2025-06-17,Beverages,14,58.43,10,No,Tuesday,736.22
+2025-06-17,Grocery,27,93.34,10,No,Tuesday,2268.16
+2025-06-17,Snacks,30,60.42,10,Yes,Tuesday,1631.34
+2025-06-17,Snacks,22,62.54,5,No,Tuesday,1307.09
+2025-06-17,Grocery,15,29.67,20,No,Tuesday,356.04
+2025-06-17,Beverages,21,40.4,0,No,Tuesday,848.4
+2025-06-18,Household,7,310.91,20,No,Wednesday,1741.1
+2025-06-18,Grocery,16,156.88,0,No,Wednesday,2510.08
+2025-06-18,Personal Care,3,274.09,0,No,Wednesday,822.27
+2025-06-19,Beverages,24,113.52,0,Yes,Thursday,2724.48
+2025-06-19,Personal Care,18,193.75,0,Yes,Thursday,3487.5
+2025-06-19,Snacks,20,25.64,10,No,Thursday,461.52
+2025-06-19,Snacks,10,62.4,5,No,Thursday,592.8
+2025-06-19,Personal Care,22,322.91,5,Yes,Thursday,6748.82
+2025-06-19,Grocery,10,76.77,10,No,Thursday,690.93
+2025-06-20,Grocery,3,148.95,15,No,Friday,379.82
+2025-06-20,Grocery,17,243.81,10,No,Friday,3730.29
+2025-06-20,Household,29,92.48,20,No,Friday,2145.54
+2025-06-20,Household,2,74.81,0,No,Friday,149.62
+2025-06-21,Snacks,20,26.6,10,No,Saturday,478.8
+2025-06-21,Snacks,22,22.08,0,Yes,Saturday,485.76
+2025-06-21,Snacks,13,39.42,0,Yes,Saturday,512.46
+2025-06-21,Snacks,32,22.66,5,Yes,Saturday,688.86
+2025-06-21,Grocery,17,192.82,0,No,Saturday,3277.94
+2025-06-21,Beverages,32,35.73,0,No,Saturday,1143.36
+2025-06-22,Beverages,11,52.0,0,No,Sunday,572.0
+2025-06-22,Household,26,191.75,15,No,Sunday,4237.68
+2025-06-22,Snacks,13,99.8,5,No,Sunday,1232.53
+2025-06-22,Snacks,10,40.63,10,No,Sunday,365.67
+2025-06-22,Household,25,219.16,0,Yes,Sunday,5479.0
+2025-06-22,Grocery,20,236.83,0,No,Sunday,4736.6
+2025-06-22,Personal Care,29,219.16,0,No,Sunday,6355.64
+2025-06-23,Household,20,323.32,0,Yes,Monday,6466.4
+2025-06-23,Grocery,31,185.45,15,Yes,Monday,4886.61
+2025-06-24,Snacks,8,33.88,20,Yes,Tuesday,216.83
+2025-06-24,Grocery,15,168.54,20,No,Tuesday,2022.48
+2025-06-24,Grocery,26,63.1,20,Yes,Tuesday,1312.48
+2025-06-24,Grocery,8,168.1,0,No,Tuesday,1344.8
+2025-06-24,Snacks,26,99.67,15,Yes,Tuesday,2202.71
+2025-06-25,Personal Care,6,342.12,0,Yes,Wednesday,2052.72
+2025-06-25,Personal Care,14,458.43,0,No,Wednesday,6418.02
+2025-06-25,Snacks,13,84.54,0,Yes,Wednesday,1099.02
+2025-06-26,Household,1,340.48,10,Yes,Thursday,306.43
+2025-06-26,Snacks,26,64.71,0,No,Thursday,1682.46
+2025-06-26,Snacks,13,86.86,20,No,Thursday,903.34
+2025-06-26,Household,30,343.84,5,No,Thursday,9799.44
+2025-06-26,Snacks,29,94.76,15,No,Thursday,2335.83
+2025-06-26,Snacks,17,91.89,20,Yes,Thursday,1249.7
+2025-06-26,Grocery,19,237.83,20,Yes,Thursday,3615.02
+2025-06-27,Household,23,107.43,15,Yes,Friday,2100.26
+2025-06-27,Household,18,232.91,10,No,Friday,3773.14
+2025-06-27,Personal Care,30,458.35,10,No,Friday,12375.45
+2025-06-27,Grocery,11,20.03,10,No,Friday,198.3
+2025-06-27,Beverages,3,78.11,0,No,Friday,234.33
+2025-06-27,Grocery,7,79.0,5,No,Friday,525.35
+2025-06-27,Personal Care,8,68.61,15,No,Friday,466.55
+2025-06-28,Beverages,27,50.24,15,No,Saturday,1153.01
+2025-06-28,Personal Care,30,436.81,5,Yes,Saturday,12449.08
+2025-06-28,Beverages,21,104.85,0,No,Saturday,2201.85
+2025-06-28,Personal Care,22,280.39,5,No,Saturday,5860.15
+2025-06-28,Beverages,12,114.85,5,Yes,Saturday,1309.29
+2025-06-28,Snacks,10,43.46,0,No,Saturday,434.6
+2025-06-28,Household,23,104.36,10,No,Saturday,2160.25
+2025-06-28,Household,6,44.37,15,No,Saturday,226.29
+2025-06-28,Snacks,31,32.19,0,No,Saturday,997.89
+2025-06-28,Grocery,1,30.5,0,No,Saturday,30.5
+2025-06-28,Household,23,284.14,20,Yes,Saturday,5228.18
+2025-06-28,Household,10,301.37,10,No,Saturday,2712.33
+2025-06-28,Grocery,26,240.29,20,No,Saturday,4998.03
+2025-06-29,Snacks,6,68.78,0,No,Sunday,412.68
+2025-06-29,Personal Care,9,165.61,5,Yes,Sunday,1415.97
+2025-06-29,Snacks,18,14.34,10,No,Sunday,232.31
+2025-06-29,Grocery,30,184.32,0,No,Sunday,5529.6
+2025-06-29,Grocery,7,117.07,0,No,Sunday,819.49
+2025-06-29,Snacks,28,73.11,0,Yes,Sunday,2047.08
+2025-06-29,Grocery,21,176.45,0,Yes,Sunday,3705.45
+2025-06-29,Snacks,28,96.71,10,No,Sunday,2437.09
+2025-06-29,Personal Care,19,450.56,10,Yes,Sunday,7704.58
+2025-06-29,Household,16,142.98,10,Yes,Sunday,2058.91
